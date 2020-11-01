@@ -9,3 +9,6 @@
 
 ### Boot loader application
 -  Responsible for flashing the data on the STM32 using a modified flash driver and executing it after a successful flashing.
+
+### Notes
+- There is a folder containing a full boot loader test using Eclipse IDE with STM32 connected to PC using ttl.
