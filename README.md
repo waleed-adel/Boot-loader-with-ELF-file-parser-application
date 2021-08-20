@@ -1,5 +1,5 @@
 # Boot loader with ELF file parser application
- Customized Boot loader for STM 32(ARM Cortex-M3)
+ Customized Boot loader for STM 32(ARM Cortex-M3).
 
 ### ELF file format parser application 
 - Extracts the program data to be fed to the boot loader from .ELF file.
